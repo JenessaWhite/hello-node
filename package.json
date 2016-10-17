@@ -16,5 +16,8 @@
   },
   "homepage": "https://github.com/JenessaWhite/hello-node#readme",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
 }
